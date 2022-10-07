@@ -1,3 +1,8 @@
+/*
+* Archivo hello.c que usamos como 
+* ejemplo para el ejercicio
+*/
+
 #include <stdio.h>
 
 int main(void) {
